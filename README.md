@@ -120,5 +120,6 @@ For running the application:
 
 ## Contact
 
-- Email: aayush5521186@gmail.com
-- Linkedin: https://www.linkedin.com/in/aayush12/
+- Email: mahmdasabirdharwad9@gmail.com
+- Linkedin: https://www.linkedin.com/in/mahmdasabir-dharwad-07b956284
+- 
